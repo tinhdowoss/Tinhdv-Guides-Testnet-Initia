@@ -31,7 +31,7 @@ source $HOME/.bash_profile
 ```
 git clone https://github.com/initia-labs/initia
 cd initia
-git checkout v0.2.10
+git checkout v0.2.12
 make install
 ```
 
@@ -111,7 +111,7 @@ EOF
 ```
  cd initia
  git fetch --all
- git checkout v0.2.10
+ git checkout v0.2.12
  make install
 ```
 3. Start the node
